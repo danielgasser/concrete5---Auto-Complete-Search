@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema
+        xmlns="http://www.concrete5.org/doctrine-xml/0.5"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.concrete5.org/doctrine-xml/0.5 http://concrete5.github.io/doctrine-xml/doctrine-xml-0.5.xsd">
+
+  <table name="btToessLabAutoCompleteSearch">
+    <field name="bID" type="integer">
+      <unsigned/>
+      <key/>
+    </field>
+    <field name="title" type="string" size="255"/>
+    <field name="baseSearchPath" type="string" size="255"/>
+    <field name="highlight" type="integer">
+      <unsigned/>
+    </field>
+    <field name="showPath" type="integer">
+      <unsigned/>
+    </field>
+    <field name="queryPlaceholder" type="integer">
+      <unsigned/>
+    </field>
+    <field name="maxResults" type="integer">
+      <unsigned/>
+    </field>
+    <field name="classNames" type="blob"/>
+    <field name="minLength" type="string" size="3"/>
+    <field name="cutAfter" type="string" size="5"/>
+    <field name="noResultText" type="string" size="255"/>
+    <field name="pageAttributes" type="blob"/>
+  </table>
+
+</schema>

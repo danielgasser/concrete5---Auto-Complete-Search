@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: toess_lab_auto_complete_search 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-14T16:55:33+00:00\n"
+"PO-Revision-Date: 2017-11-14 18:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: packages/toess_lab_auto_complete_search/controller.php:52
+msgid "Auto complete search while typing in search terms."
+msgstr ""
+"Suche automatisch vervollständigen, während dem eintippen von Suchbegriffen."
+
+#: packages/toess_lab_auto_complete_search/controller.php:60
+msgid "toesslab - Auto Complete Search"
+msgstr "toesslab - Auto Complete Search"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:154
+msgid "Add an auto complete search box to your site."
+msgstr ""
+"Füge eine Suchbox zur Website hinzu, welche Suchbegriffe automatisch "
+"vervollständigt."
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:162
+msgid "Auto Complete Search"
+msgstr "Automatisch vervollständigende Suche"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:172
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:173
+msgid "Meta Description"
+msgstr "Metabeschreibung"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:174
+msgid "Description"
+msgstr "Beschreibung"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/controller.php:243
+msgid ""
+"You've inserted the query placeholder but it isn't formatted correctly. It "
+"should be %s"
+msgstr ""
+"Der Suchbegriff-Platzhalter wurde hinzugefügt – er ist aber nicht korrekt "
+"formatiert. So wäre es richtig: %s"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:14
+msgid "Insert query placeholder"
+msgstr "Suchbegriff-Platzhalter einfügen"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:23
+msgid ""
+"The search index does not appear to exist. This block will not function "
+"until the reindex job has been run at least once in the dashboard."
+msgstr ""
+"Der Suchindex scheint nicht zu existieren. Dieser Block wird nicht "
+"funktionieren, bis der Auftrag zur Neuindizierung mindestens einmal über die "
+"Verwaltung ausgeführt wurde."
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:30
+msgid "Title"
+msgstr "Titel"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:34
+msgid "Page attributes to show in the dropdown"
+msgstr "Seitenattribute, welche im Suchvorschlag angezeigt werden sollen"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:49
+msgid "Minimum search term length:"
+msgstr "Minimale Länge des Suchbegriffs:"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:53
+msgid "No results text:"
+msgstr "Text wenn kein Resultat gefunden wurde:"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:53
+#, fuzzy
+msgid ""
+"The button <b>%s</b> places a query placeholder inside this text at the "
+"cursors position: %s"
+msgstr ""
+"Die Schaltfälche <b>%s</b> fügt einen Suchbegriff-Platzhalter (Query) an der "
+"Cursor-Position in den Text: %s"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:53
+msgid ""
+"<b>Do not change the placeholder!</b><p>This placeholder will be replaced by "
+"the query text, when no search result are found.</p>"
+msgstr ""
+"<b>Bitte verändern Sie den Platzhalter nicht!</b><p>Der Platzhalter wird mit "
+"dem Suchbegriff ersetzt, wenn keine Resultate gefunden wurden</p>"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:56
+msgid "Delete query placeholder"
+msgstr "Lösche den Suchbegriff-Platzhalter"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:62
+msgid "Highlight suggestions"
+msgstr "Vorschläge hervorheben"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:66
+msgid "CSS class names"
+msgstr "CSS-Klassennamen"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:103
+msgid "Search for Pages"
+msgstr "Nach Seiten suchen"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:107
+msgid "Everywhere"
+msgstr "Gesamte Site"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:113
+msgid "Beneath the Current Page"
+msgstr "Unterhalb der aktuellen Seite"
+
+#: packages/toess_lab_auto_complete_search/blocks/toess_lab_auto_complete_search_block/form_setup_html.php:119
+msgid "Beneath Another Page"
+msgstr "unterhalb einer anderen Seite"

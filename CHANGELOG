@@ -1,0 +1,126 @@
+Version 1.10.2
+
+2019-03-18
+
+     -Added option to show page links or not
+
+Version 1.10.1
+
+2019-02-27
+
+     -Bugfix: don't show unnecessary attributes in results II
+
+Version 1.10
+
+2019-02-27
+
+     -Bugfix: don't show unnecessary attributes in results
+
+Version 1.0.9
+
+2019-02-26
+
+     -Bugfix: show results if no value but attributes in page
+
+Version 1.0.8
+
+2019-02-26
+
+     -Added all page attributes to be shown in results
+
+Version 1.0.7
+
+2018-10-18
+
+    -Bugfix: number of results limited to
+    -Added option in Block to set the number of results shown
+
+Version 1.0.6
+
+2018-07-12
+
+    -PHP 7.2 ready
+
+Version 1.0.5
+
+2018-01-03
+
+    -Cut result texts after x characters
+
+Version 1.0.4
+
+2017-11-15
+
+    -Added german translation
+
+Version 1.0.3
+
+2017-11-14
+
+    -Fixed translatable strings
+
+Version 1.0.2
+
+2017-11-12
+
+    -Removed unnecessary CSS classes for page attributes
+
+Version 1.0.1
+
+2017-11-12
+
+    -Added CSS classes for page attributes
+
+Version 1.0
+
+2017-11-11
+
+    -First release
+
+Version 0.9.0
+
+2017-10-27
+
+    -Results to page form fields unnecessary when showing sentences
+
+Version 0.1.5
+
+Version 0.1.6
+
+2017-10-27
+
+    -Fixed: https://github.com/twitter/typeahead.js/issues/1232
+
+Version 0.1.5
+
+2017-10-20
+
+    - Removed Option "Show Pages"
+
+Version 0.1.4:
+
+2017-10-19
+
+    - More bug fixes: Words, Sentences, JS
+
+    - Code Styling: Separate Class for Search
+
+Version 0.1.3:
+
+2017-10-17
+
+    - Removed Search Button option: Searching is triggered directly
+
+    - Bug Fix when searching by words
+
+    - Added page titles to dropdown, when searching by words/sentences
+
+    - Fixed bug: No results, when 2 or more blocks are on 1 page
+
+    - Removed Page Attribute "Extra Header Content"
+
+Version 0.1:
+
+2017-04-11
+
+    prototyping...
